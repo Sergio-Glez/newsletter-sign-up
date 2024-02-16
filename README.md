@@ -1,2 +1,2 @@
 # newsletter-sign-up
-Validated form to subscribe to the newsletter
+Validated form to subscribe to the newsletter usign Jquery
